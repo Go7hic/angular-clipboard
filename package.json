@@ -1,0 +1,23 @@
+{
+  "name": "angular-clipboard",
+  "version": "1.0.0",
+  "description": "clipboard.js for angular1.x",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dyygtfx/angular-clipboard.git"
+  },
+  "author": "Go7hic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dyygtfx/angular-clipboard/issues"
+  },
+  "homepage": "https://github.com/dyygtfx/angular-clipboard#readme",
+  "dependencies": {
+    "angular": "^1.2.29",
+    "clipboard": "^1.5.5"
+  }
+}
