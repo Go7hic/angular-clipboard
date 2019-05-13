@@ -18,6 +18,6 @@
   "homepage": "https://github.com/dyygtfx/angular-clipboard#readme",
   "dependencies": {
     "angular": "^1.2.29",
-    "clipboard": "^1.5.5"
+    "clipboard": "^2.0.4"
   }
 }
